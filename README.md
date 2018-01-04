@@ -1,4 +1,8 @@
 [![Build Status](https://travis-ci.org/vergecurrency/VERGE.svg?branch=master)](https://travis-ci.org/vergecurrency/VERGE)
+<a href="https://scan.coverity.com/projects/ihacku-vergecurrency-com">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/14758/badge.svg"/>
+</a>
 
 
 ```
